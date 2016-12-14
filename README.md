@@ -1,7 +1,7 @@
 ncTelegram in Docker
 ====================
 
-[Docker](https://docs.docker.com/installation/) containerized version of [ncTelefram](https://github.com/Nanoseb/ncTelegram)
+[Docker](https://docs.docker.com/installation/) containerized version of [ncTelegram](https://github.com/Nanoseb/ncTelegram)
 
 ### Usage
 
